@@ -1,0 +1,1 @@
+# P229_CSharp_22-09-2022_Abstract_Interface_Sealed_Static_Extension
